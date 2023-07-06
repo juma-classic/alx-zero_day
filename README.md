@@ -1,1 +1,1 @@
-My first readme.Tips
+How to be up to date in git
